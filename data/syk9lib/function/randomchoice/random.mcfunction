@@ -1,0 +1,1 @@
+$execute store result storage syk9lib: randomchoice.roll int 1 run random value 0..$(length)

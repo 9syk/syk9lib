@@ -1,0 +1,1 @@
+$data modify storage syk9lib: randomchoice.result set from storage $(storage)[$(roll)]
