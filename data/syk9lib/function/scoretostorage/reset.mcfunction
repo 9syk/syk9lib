@@ -1,0 +1,1 @@
+data remove storage syk9lib: scoretostorage.result
