@@ -1,0 +1,1 @@
+$data modify storage syk9lib: scoretostorage.result.$(score)[-1].$(mcid) set value $(store)
