@@ -6,5 +6,5 @@ $scoreboard players set $randomchoice.mode syk9lib $(mode)
 $execute store result score $randomchoice.length syk9lib if data storage $(storage)[]
 scoreboard players remove $randomchoice.length syk9lib 1
 execute store result storage syk9lib: randomchoice.length int 1 run scoreboard players get $randomchoice.length syk9lib
-function syk9lib:randomchoice/random with storage syk9lib: randomchoice
+function syk9lib:randomchoice/roll with storage syk9lib: randomchoice
 function syk9lib:randomchoice/choice with storage syk9lib: randomchoice
