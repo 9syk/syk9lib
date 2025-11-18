@@ -129,6 +129,3 @@ scoreboard players set $9000 syk9lib.num 9000
 scoreboard players set $10000 syk9lib.num 10000
 scoreboard players set $10000 syk9lib.num 100000
 scoreboard players set $10000 syk9lib.num 1000000
-
-#forceloadの追加
-execute in minecraft:overworld run forceload add 0 0 0 0
