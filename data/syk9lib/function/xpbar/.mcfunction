@@ -4,7 +4,7 @@
 
 #バーの操作
 xp set @s 129 levels
-$execute store result score $xpbar syk9lib run scoreboard players get $(bar_n) $(bar_s)
+$scoreboard players operation $xpbar syk9lib = $(bar_n) $(bar_s)
 xp set @s 0 points
 
 execute if score $xpbar syk9lib matches 512.. run xp add @s 512 points
