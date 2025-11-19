@@ -1,0 +1,102 @@
+{
+  "condition": "minecraft:all_of",
+  "terms": [
+{
+  "condition": "minecraft:entity_scores",
+  "entity": "this",
+  "scores": {
+    "syk9lib.UUID0": {
+      "min": {
+        "type": "minecraft:score",
+        "target": {
+          "type": "minecraft:fixed",
+          "name": "$"
+        },
+        "score": "syk9lib.UUID0"
+      },
+      "max": {
+        "type": "minecraft:score",
+        "target": {
+          "type": "minecraft:fixed",
+          "name": "$"
+        },
+        "score": "syk9lib.UUID0"
+      }
+    }
+  }
+},
+{
+  "condition": "minecraft:entity_scores",
+  "entity": "this",
+  "scores": {
+    "syk9lib.UUID1": {
+      "min": {
+        "type": "minecraft:score",
+        "target": {
+          "type": "minecraft:fixed",
+          "name": "$"
+        },
+        "score": "syk9lib.UUID1"
+      },
+      "max": {
+        "type": "minecraft:score",
+        "target": {
+          "type": "minecraft:fixed",
+          "name": "$"
+        },
+        "score": "syk9lib.UUID1"
+      }
+    }
+  }
+},
+{
+  "condition": "minecraft:entity_scores",
+  "entity": "this",
+  "scores": {
+    "syk9lib.UUID2": {
+      "min": {
+        "type": "minecraft:score",
+        "target": {
+          "type": "minecraft:fixed",
+          "name": "$"
+        },
+        "score": "syk9lib.UUID2"
+      },
+      "max": {
+        "type": "minecraft:score",
+        "target": {
+          "type": "minecraft:fixed",
+          "name": "$"
+        },
+        "score": "syk9lib.UUID2"
+      }
+    }
+  }
+},
+{
+  "condition": "minecraft:entity_scores",
+  "entity": "this",
+  "scores": {
+    "syk9lib.UUID3": {
+      "min": {
+        "type": "minecraft:score",
+        "target": {
+          "type": "minecraft:fixed",
+          "name": "$"
+        },
+        "score": "syk9lib.UUID3"
+      },
+      "max": {
+        "type": "minecraft:score",
+        "target": {
+          "type": "minecraft:fixed",
+          "name": "$"
+        },
+        "score": "syk9lib.UUID3"
+      }
+    }
+  }
+}
+  ]
+}
+

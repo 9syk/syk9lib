@@ -1,6 +1,10 @@
 #scoreboardの追加
 scoreboard objectives add syk9lib dummy
 scoreboard objectives add syk9lib.num dummy
+scoreboard objectives add syk9lib.UUID0 dummy
+scoreboard objectives add syk9lib.UUID1 dummy
+scoreboard objectives add syk9lib.UUID2 dummy
+scoreboard objectives add syk9lib.UUID3 dummy
 
 #定数の設定
 scoreboard players set $-1 syk9lib.num -1
