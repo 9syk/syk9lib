@@ -131,5 +131,5 @@ scoreboard players set $7000 syk9lib.num 7000
 scoreboard players set $8000 syk9lib.num 8000
 scoreboard players set $9000 syk9lib.num 9000
 scoreboard players set $10000 syk9lib.num 10000
-scoreboard players set $10000 syk9lib.num 100000
-scoreboard players set $10000 syk9lib.num 1000000
+scoreboard players set $100000 syk9lib.num 100000
+scoreboard players set $1000000 syk9lib.num 1000000
