@@ -1,4 +1,5 @@
 #commandとtimeを与えて実行、実行者がtime[tick]後にcommandで指定したコマンドを実行
+function syk9lib:matchuuid/get
 
 $data modify storage syk9lib: myschedule.schedule append value {command:"$(command)",time:$(time)}
 
