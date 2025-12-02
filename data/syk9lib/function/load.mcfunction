@@ -1,6 +1,7 @@
 #scoreboardの追加
 scoreboard objectives add syk9lib dummy
 scoreboard objectives add syk9lib.num dummy
+scoreboard objectives add syk9lib.myschedule dummy
 scoreboard objectives add syk9lib.UUID0 dummy
 scoreboard objectives add syk9lib.UUID1 dummy
 scoreboard objectives add syk9lib.UUID2 dummy
