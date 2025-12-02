@@ -1,12 +1,8 @@
 #commandとtimeを与えて実行、実行者がtime[tick]後にcommandで指定したコマンドを実行
-function syk9lib:matchuuid/get
+execute unless score @s syk9lib.myschedule matches -2147483648..2147483647 run function syk9lib:myschedule/id
 
 $data modify storage syk9lib: myschedule.schedule append value {command:"$(command)",time:$(time)}
 
-execute store result storage syk9lib: myschedule.UUID.UUID0 int 1 run scoreboard players get @s syk9lib.UUID0
-execute store result storage syk9lib: myschedule.UUID.UUID1 int 1 run scoreboard players get @s syk9lib.UUID1
-execute store result storage syk9lib: myschedule.UUID.UUID2 int 1 run scoreboard players get @s syk9lib.UUID2
-execute store result storage syk9lib: myschedule.UUID.UUID3 int 1 run scoreboard players get @s syk9lib.UUID3
+execute store result storage syk9lib: myschedule.id.id int 1 run scoreboard players get @s syk9lib.myschedule
 
-
-data modify storage syk9lib: myschedule.schedule[-1] merge from storage syk9lib: myschedule.UUID
+data modify storage syk9lib: myschedule.schedule[-1] merge from storage syk9lib: myschedule.id
