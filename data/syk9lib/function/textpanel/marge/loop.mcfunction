@@ -1,0 +1,4 @@
+execute store result score $length syk9lib.textpanel if data storage oh_my_dat: _[-4][-4][-4][-4][-4][-4][-4][-4].syk9lib.textpanel.beforemarge[]
+data modify storage oh_my_dat: _[-4][-4][-4][-4][-4][-4][-4][-4].syk9lib.textpanel.top set from storage oh_my_dat: _[-4][-4][-4][-4][-4][-4][-4][-4].syk9lib.textpanel.beforemarge[0]
+execute if score $length syk9lib.textpanel matches 1.. run function syk9lib:textpanel/marge/marge with storage oh_my_dat: _[-4][-4][-4][-4][-4][-4][-4][-4].syk9lib.textpanel
+execute if score $length syk9lib.textpanel matches 1.. run function syk9lib:textpanel/marge/loop

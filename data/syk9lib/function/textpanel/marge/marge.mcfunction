@@ -1,0 +1,2 @@
+$data modify storage oh_my_dat: _[-4][-4][-4][-4][-4][-4][-4][-4].syk9lib.textpanel.marge set value "$(marge)$(top)"
+data remove storage oh_my_dat: _[-4][-4][-4][-4][-4][-4][-4][-4].syk9lib.textpanel.beforemarge[0]
