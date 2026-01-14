@@ -1,0 +1,1 @@
+$function syk9lib:textpanel/dialog/$(page) with storage oh_my_dat: _[-4][-4][-4][-4][-4][-4][-4][-4].syk9lib.textpanel
