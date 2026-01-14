@@ -1,7 +1,7 @@
-#前提 -> OhMyDat!
-#テキスト入力ダイアログを表示し、omdのsyk9lib.textpanel.inputに保存
-scoreboard players set @s syk9lib.textpanel.page 0
+scoreboard players set @s syk9lib.textpanel 0
+scoreboard players add @s syk9lib.textpanel.page 1
+scoreboard players set @s[scores={syk9lib.textpanel.page=2..}] syk9lib.textpanel.page 0
+
 function #oh_my_dat:please
-data modify storage oh_my_dat: _[-4][-4][-4][-4][-4][-4][-4][-4].syk9lib.textpanel set value {marge:""}
 execute store result storage oh_my_dat: _[-4][-4][-4][-4][-4][-4][-4][-4].syk9lib.textpanel.page int 1 run scoreboard players get @s syk9lib.textpanel.page
 function syk9lib:textpanel/dialog/ with storage oh_my_dat: _[-4][-4][-4][-4][-4][-4][-4][-4].syk9lib.textpanel
