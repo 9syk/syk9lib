@@ -7,6 +7,7 @@ scoreboard objectives add syk9lib.UUID1 dummy
 scoreboard objectives add syk9lib.UUID2 dummy
 scoreboard objectives add syk9lib.UUID3 dummy
 scoreboard objectives add syk9lib.textpanel trigger
+scoreboard objectives add syk9lib.textpanel.page dummy
 
 #定数の設定
 scoreboard players set $-1 syk9lib.num -1
