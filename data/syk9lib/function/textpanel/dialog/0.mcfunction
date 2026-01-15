@@ -69,51 +69,52 @@ $dialog show @s \
     { "label": "ね", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 24" } },\
     { "label": "の", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 25" } },\
 \
-		{ "label": "わ", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 46" } },\
-		{ "label": "＃", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 47" } },\	
-		{ "label": "を", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 48" } },\
-		{ "label": "％", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 49" } },\
-		{ "label": "ん", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 50" } },\
+	{ "label": "わ", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 46" } },\
+	{ "label": "＃", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 47" } },\	
+	{ "label": "を", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 48" } },\
+	{ "label": "％", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 49" } },\
+	{ "label": "ん", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 50" } },\
 \
-		{ "label": "ぁ", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 51" } },\
-		{ "label": "ぃ", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 52" } },\
-		{ "label": "ぅ", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 53" } },\
-		{ "label": "ぇ", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 54" } },\
-		{ "label": "ぉ", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 55" } },\
+	{ "label": "ぁ", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 51" } },\
+	{ "label": "ぃ", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 52" } },\
+	{ "label": "ぅ", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 53" } },\
+	{ "label": "ぇ", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 54" } },\
+	{ "label": "ぉ", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 55" } },\
 \
-		{ "label": "ゃ", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 56" } },\
-		{ "label": "ゅ", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 57" } },\
-		{ "label": "ょ", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 58" } },\
-		{ "label": "ゎ", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 59" } },\
-		{ "label": "っ", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 60" } },\
+	{ "label": "ゃ", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 56" } },\
+	{ "label": "ゅ", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 57" } },\
+	{ "label": "ょ", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 58" } },\
+	{ "label": "ゎ", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 59" } },\
+	{ "label": "っ", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 60" } },\
 \
-		{ "label": "１", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 61" } },\
-		{ "label": "２", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 62" } },\
-		{ "label": "３", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 63" } },\
-		{ "label": "４", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 64" } },\
-		{ "label": "５", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 65" } },\
+	{ "label": "１", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 61" } },\
+	{ "label": "２", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 62" } },\
+	{ "label": "３", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 63" } },\
+	{ "label": "４", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 64" } },\
+	{ "label": "５", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 65" } },\
 \
-		{ "label": "６", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 66" } },\
-		{ "label": "７", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 67" } },\
-		{ "label": "８", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 68" } },\
-		{ "label": "９", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 69" } },\
-		{ "label": "０", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 70" } },\
+	{ "label": "６", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 66" } },\
+	{ "label": "７", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 67" } },\
+	{ "label": "８", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 68" } },\
+	{ "label": "９", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 69" } },\
+	{ "label": "０", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 70" } },\
 \
-		{ "label": "゛", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 71" } },\
-		{ "label": "゜", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 72" } },\
-		{ "label": "！", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 73" } },\
-		{ "label": "？", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 74" } },\
-		{ "label": "、", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 75" } },\
+	{ "label": "゛", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 71" } },\
+	{ "label": "゜", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 72" } },\
+	{ "label": "！", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 73" } },\
+	{ "label": "？", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 74" } },\
+	{ "label": "、", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 75" } },\
 \
-		{ "label": "。", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 76" } },\
-		{ "label": "（", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 77" } },\
-		{ "label": "）", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 78" } },\
-		{ "label": "：", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 79" } },\
-		{ "label": "ー", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 80" } },\
+	{ "label": "。", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 76" } },\
+	{ "label": "（", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 77" } },\
+	{ "label": "）", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 78" } },\
+	{ "label": "：", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 79" } },\
+	{ "label": "ー", "width": 20, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set 80" } },\
 \
-    { "label": "Aあ", "width": 50, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set -1" } },\
-    { "label": "BS", "width": 50, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set -2" } },\
-    { "label": "", "width": 50, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set -3" } },\
-    { "label": "OK", "width": 50, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set -4" } }\
+    { "label": "Aあ", "width": 40, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set -1" } },\
+    { "label": "BS", "width": 40, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set -2" } },\
+    { "label": "半", "width": 40, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set -3" } },\
+    { "label": "全", "width": 40, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set -4" } },\
+    { "label": "OK", "width": 40, "action": { "type": "run_command", "command": "trigger syk9lib.textpanel set -5" } }\
   ]\
 }
