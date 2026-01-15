@@ -4,6 +4,7 @@ scoreboard objectives add syk9lib.num dummy
 scoreboard objectives add syk9lib.myschedule dummy
 scoreboard objectives add syk9lib.textpanel trigger
 scoreboard objectives add syk9lib.textpanel.page dummy
+scoreboard objectives add syk9lib.textpanel.flag dummy
 
 #定数の設定
 scoreboard players set $-1 syk9lib.num -1
