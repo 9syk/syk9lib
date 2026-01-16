@@ -77,13 +77,12 @@
 - - `全` : 全角スペース
 - - `OK` : 入力の確定
 
-```function #syk9lib:textpanel_get {storage, path, command}```
+```function #syk9lib:textpanel_get {storage, command}```
 
 - `storage` : 保存先のstorage
-- `path` : 保存先のパス
-- `command` : 保存後に実行するコマンド (function推奨)
+- `command` : 保存後に実行するコマンド (`'``"`を含むと安定しません)
 
-実行者が入力したテキストを`storage`の`path`に保存します
+実行者が入力したテキストを`storage`で指定した場所に保存します
 
 実行時に入力中なら入力が完了するまで待ちます
 
