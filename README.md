@@ -80,7 +80,7 @@
 ```function #syk9lib:textpanel_get {storage, command}```
 
 - `storage` : 保存先のstorage
-- `command` : 保存後に実行するコマンド (`'` `"`を含まないでください)
+- `command` : 保存後に実行するコマンド (`'`を含まないでください)
 
 実行者が入力したテキストを`storage`で指定した場所に保存します
 
