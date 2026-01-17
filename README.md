@@ -18,7 +18,7 @@
 
 ```function #syk9lib:myschedule {command, time}```
 
-- `command` : 実行するコマンド
+- `command` : 実行するコマンド (`'` `"`を含まないでください)
 - `time` : 実行までの時間 [tick]
 
 実行者が、指定した時間の経過後に任意のコマンドを実行します
@@ -80,7 +80,7 @@
 ```function #syk9lib:textpanel_get {storage, command}```
 
 - `storage` : 保存先のstorage
-- `command` : 保存後に実行するコマンド (`'` `"`を含むと安定しません)
+- `command` : 保存後に実行するコマンド (`'` `"`を含まないでください)
 
 実行者が入力したテキストを`storage`で指定した場所に保存します
 
