@@ -6,7 +6,7 @@ $dialog show @s \
   },\
   "body": {\
     "type": "minecraft:plain_message",\
-    "contents": "$(marge)",\
+    "contents": "$(merge)",\
     "width": 300\
   },\
   "inputs": [],\
