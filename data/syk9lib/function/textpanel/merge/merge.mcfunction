@@ -1,0 +1,2 @@
+$data modify storage oh_my_dat: _[-4][-4][-4][-4][-4][-4][-4][-4].syk9lib.textpanel.merge set value "$(merge)$(top)"
+data remove storage oh_my_dat: _[-4][-4][-4][-4][-4][-4][-4][-4].syk9lib.textpanel.beforemerge[0]
